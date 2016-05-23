@@ -1,0 +1,152 @@
+///////////////////////////////////////////////////////
+File:  F:\EDUCATION\LIBRARY\UNIVERSITY\Intellectual Data Processing\Neural networks\!dir_list.txt
+///////////////////////////////////////////////////////
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+сеть				82				Noun
+информация				8				Noun
+скорость				8				Noun
+теория				8				Noun
+машина				6				Noun
+обучение				6				Noun
+система				5				Noun
+возможность				4				Noun
+задача				4				Noun
+качество				4				Noun
+конференция				4				Noun
+концепция				4				Noun
+модель				4				Noun
+обработка				4				Noun
+помощь				4				Noun
+применение				4				Noun
+реальность				4				Noun
+связь				4				Noun
+сложность				4				Noun
+активность				3				Noun
+компактность				3				Noun
+оптимизация				3				Noun
+практик				3				Noun
+практика				3				Noun
+приложение				3				Noun
+проблема				3				Noun
+решение				3				Noun
+технология				3				Noun
+управление				3				Noun
+алгоритм				2				Noun
+выборка				2				Noun
+группа				2				Noun
+интеллект				2				Noun
+компьютер				2				Noun
+нейронный				2				Adjective
+оценка				2				Noun
+положение				2				Noun
+прогнозирование				2				Noun
+работа				2				Noun
+решенье				2				Noun
+ряд				2				Noun
+среда				2				Noun
+средство				2				Noun
+таблица				2				Noun
+универсальность				2				Noun
+упрощение				2				Noun
+физик				2				Noun
+экономика				2				Noun
+анализ				1				Noun
+аналитический				1				Adjective
+аппаратный				1				Adjective
+аспект				1				Noun
+бизнес				1				Noun
+вес				1				Noun
+взаимоотношение				1				Noun
+восстановление				1				Noun
+временный				1				Adjective
+входной				1				Adjective
+вызваться				1				Verb
+вызов				1				Noun
+вычисление				1				Noun
+вычислительный				1				Adjective
+гармонический				1				Adjective
+генетический				1				Adjective
+зависимость				1				Noun
+закон				1				Noun
+знание				1				Noun
+знанье				1				Noun
+идея				1				Noun
+изобретение				1				Noun
+информационный				1				Adjective
+искусство				1				Noun
+исследовательский				1				Adjective
+исходный				1				Adjective
+исчисление				1				Noun
+кинетический				1				Adjective
+климатический				1				Adjective
+король				1				Noun
+курс				1				Noun
+логика				1				Noun
+метод				1				Noun
+метода				1				Noun
+множество				1				Noun
+моделирование				1				Noun
+мышление				1				Noun
+неопределенный				1				Adjective
+нервный				1				Adjective
+обзор				1				Noun
+обратный				1				Adjective
+обучаемый				1				Adjective
+обучающий				1				Adjective
+основной				1				Adjective
+относящийся				1				Adjective
+патент				1				Noun
+погрешность				1				Noun
+поиск				1				Noun
+предсказание				1				Noun
+преобразователь				1				Noun
+признак				1				Noun
+принятие				1				Noun
+пробел				1				Noun
+проблемный				1				Adjective
+проведение				1				Noun
+прогноз				1				Noun
+программа				1				Noun
+программирование				1				Noun
+простой				1				Adjective
+пространство				1				Noun
+путь				1				Noun
+разум				1				Noun
+распознавание				1				Noun
+распространение				1				Noun
+системный				1				Adjective
+создание				1				Noun
+справочник				1				Noun
+стандарт				1				Noun
+стандартный				1				Adjective
+статистический				1				Adjective
+структура				1				Noun
+структурный				1				Adjective
+суждение				1				Noun
+счет				1				Noun
+теорема				1				Noun
+техник				1				Noun
+техника				1				Noun
+улучшение				1				Noun
+ум				1				Noun
+ускорение				1				Noun
+учитель				1				Noun
+физика				1				Noun
+функционирование				1				Noun
+функция				1				Noun
+характеристика				1				Noun
+человек				1				Noun
+человеческий				1				Adjective
+язык				1				Noun
+///////////////////////////////////////////////////////
+Processing time :   00:22:31.0202739
+Size of file: 5734 Bytes.
+              5,599609375KBytes
+Date of scanning: 06.05.2012 10:24:51
+///////////////////////////////////////////////////////
+
+

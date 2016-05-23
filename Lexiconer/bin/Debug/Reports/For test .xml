@@ -1,0 +1,24 @@
+<root FileName="C:\Users\Rain\Desktop\For test .txt">
+  <Statistics DateTime="10.05.2012 22:03:12" SizeOfFile="35" TimeOfProcessing="00:00:35.7510449">
+    <Nouns Count="3">
+      <noun Valuable="1">успех</noun>
+      <noun Valuable="2">дом</noun>
+      <noun Valuable="1">втора</noun>
+    </Nouns>
+    <Adjectives Count="4">
+      <Adjective Valuable="1">милый</Adjective>
+      <Adjective Valuable="1">десятый</Adjective>
+      <Adjective Valuable="1">самый</Adjective>
+      <Adjective Valuable="2">второй</Adjective>
+    </Adjectives>
+    <Verbs Count="3">
+      <verb Valuable="1">знать</verb>
+      <verb Valuable="2">быть</verb>
+      <verb Valuable="1">мочь</verb>
+    </Verbs>
+    <Numerals Count="2">
+      <verb Valuable="1">тридцать</verb>
+      <verb Valuable="1">пятеро</verb>
+    </Numerals>
+  </Statistics>
+</root>

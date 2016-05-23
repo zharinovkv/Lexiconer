@@ -1,0 +1,22 @@
+<root FileName="C:\Users\Rain\Desktop\My Debts.txt">
+  <Statistics DateTime="08.12.2012 2:18:32" SizeOfFile="34" TimeOfProcessing="00:00:12.0116871">
+    <Nouns Count="7">
+      <noun Valuable="1">алгоритм</noun>
+      <noun Valuable="1">доклад</noun>
+      <noun Valuable="1">система</noun>
+      <noun Valuable="4">интеграция</noun>
+      <noun Valuable="1">социология</noun>
+      <noun Valuable="1">знание</noun>
+      <noun Valuable="1">знанье</noun>
+    </Nouns>
+    <Adjectives Count="1">
+      <adjective Valuable="1">курсовой</adjective>
+    </Adjectives>
+    <Verbs Count="1">
+      <verb Valuable="1">доделать</verb>
+    </Verbs>
+    <Numerals Count="1">
+      <numeral Valuable="1">два</numeral>
+    </Numerals>
+  </Statistics>
+</root>

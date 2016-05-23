@@ -1,0 +1,1261 @@
+///////////////////////////////////////////////////////
+File:  C:\Users\Rain\Desktop\Сдать осталось.txt
+///////////////////////////////////////////////////////
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+ин				2				Numeral
+а				2				Numeral
+и				2				Numeral
+тора				2				Numeral
+е				4				Numeral
+ь				2				Numeral
+емь				2				Numeral
+'				2				Numeral
+о				4				Numeral
+ьдесят				4				Numeral
+				2				Numeral
+емьдесят				2				Numeral
+ый				22				Adjective
+ой				18				Adjective
+йный				10				Adjective
+ный				26				Adjective
+ий				24				Adjective
+ной				10				Adjective
+ний				6				Adjective
+ая				4				Adjective
+ьный				7				Adjective
+рый				3				Adjective
+кий				8				Adjective
+#				2				Adjective
+ей				4				Adjective
+йкий				4				Adjective
+ький				4				Adjective
+лый				3				Adjective
+гий				4				Adjective
+лой				3				Adjective
+ьной				3				Adjective
+ое				6				Adjective
+ые				2				Adjective
+ийся				2				Adjective
+#				47				Noun
+а				42				Noun
+оть				6				Noun
+онок				4				Noun
+ька				8				Noun
+оль				6				Noun
+ин				10				Noun
+ет				6				Noun
+ель				6				Noun
+я				41				Noun
+от				3				Noun
+енок				4				Noun
+ек				12				Noun
+й				8				Noun
+ь				14				Noun
+ев				3				Noun
+ок				10				Noun
+ед				3				Noun
+ей				3				Noun
+ка				18				Noun
+ел				3				Noun
+ен				6				Noun
+день				3				Noun
+ень				3				Noun
+ер				3				Noun
+ес				3				Noun
+ец				21				Noun
+ов				3				Noun
+ол				3				Noun
+он				3				Noun
+онь				3				Noun
+ор				3				Noun
+орь				3				Noun
+яц				3				Noun
+ос				2				Noun
+йка				8				Noun
+ко				12				Noun
+ья				15				Noun
+овь				6				Noun
+ьба				4				Noun
+ьга				4				Noun
+ла				8				Noun
+ьма				4				Noun
+йня				4				Noun
+на				4				Noun
+ожь				2				Noun
+ня				12				Noun
+ьня				4				Noun
+ра				4				Noun
+ца				8				Noun
+ля				4				Noun
+ночь				2				Noun
+е				14				Noun
+о				21				Noun
+ло				8				Noun
+ьце				4				Noun
+ьмо				4				Noun
+но				9				Noun
+ро				4				Noun
+цо				4				Noun
+ьцо				4				Noun
+ье				4				Noun
+це				4				Noun
+йцо				4				Noun
+хо				4				Noun
+ы				6				Noun
+и				10				Noun
+ки				4				Noun
+ьца				3				Noun
+ьки				3				Noun
+нуть				4				Verb
+ти				6				Verb
+ть				22				Verb
+ТАТЬСЯ				2				Verb
+ить				61				Verb
+ать				36				Verb
+есть				2				Verb
+ыть				4				Verb
+идти				2				Verb
+зать				7				Verb
+сться				2				Verb
+аться				22				Verb
+обрать				2				Verb
+бить				2				Verb
+вать				6				Verb
+диться				8				Verb
+вить				2				Verb
+титься				17				Verb
+гать				2				Verb
+сти				15				Verb
+сть				6				Verb
+дить				10				Verb
+деть				8				Verb
+драть				2				Verb
+йти				7				Verb
+евать				8				Verb
+ить				2				Verb
+ться				18				Verb
+оть				4				Verb
+уть				5				Verb
+ивать				2				Verb
+ять				21				Verb
+ереть				2				Verb
+рать				5				Verb
+яться				16				Verb
+ереться				5				Verb
+есть				8				Verb
+няться				2				Verb
+еть				21				Verb
+,еют,ла,ли,ло}				2				Verb
+ть				2				Verb
+сться				10				Verb
+сить				17				Verb
+жечь				2				Verb
+ечь				4				Verb
+жать				4				Verb
+зиться				5				Verb
+зить				12				Verb
+иться				48				Verb
+зять				5				Verb
+сеть				12				Verb
+йтись				9				Verb
+теться				8				Verb
+хать				22				Verb
+асти				3				Verb
+стереть				4				Verb
+мяться				2				Verb
+иться				4				Verb
+няться				4				Verb
+кать				10				Verb
+лить				3				Verb
+стереться				4				Verb
+мять				2				Verb
+нать				4				Verb
+нуться				2				Verb
+нять				4				Verb
+стись				3				Verb
+овать				8				Verb
+переться				4				Verb
+оваться				5				Verb
+ситься				8				Verb
+оваться				10				Verb
+огнать				4				Verb
+одрать				4				Verb
+одраться				4				Verb
+озвать				5				Verb
+олоть				2				Verb
+стеть				4				Verb
+переть				4				Verb
+стись				4				Verb
+сать				6				Verb
+сесться				4				Verb
+скать				6				Verb
+слать				4				Verb
+стить				12				Verb
+шить				4				Verb
+спить				4				Verb
+питься				4				Verb
+теть				11				Verb
+тить				21				Verb
+тать				25				Verb
+тереть				4				Verb
+тереться				4				Verb
+деться				16				Verb
+еться				18				Verb
+ыть				4				Verb
+уться				4				Verb
+хаться				10				Verb
+чь				6				Verb
+чься				6				Verb
+честь				3				Verb
+ыться				2				Verb
+ыться				4				Verb
+заться				10				Verb
+таться				12				Verb
+наться				8				Verb
+ваться				11				Verb
+зиться				6				Verb
+ечься				4				Verb
+еваться				12				Verb
+биться				3				Verb
+сшить				4				Verb
+сшиться				4				Verb
+раться				10				Verb
+стать				6				Verb
+статься				6				Verb
+есться				4				Verb
+жаться				7				Verb
+аться				6				Verb
+каться				8				Verb
+оться				4				Verb
+скаться				4				Verb
+саться				8				Verb
+литься				4				Verb
+ститься				6				Verb
+озваться				5				Verb
+тись				4				Verb
+жечься				4				Verb
+ъять				4				Verb
+зяться				5				Verb
+слаться				4				Verb
+огнаться				4				Verb
+обраться				3				Verb
+виться				4				Verb
+///////////////////////////////////////////////////////
+Processing time :   00:00:29.3156767
+Size of file: 69 Bytes.
+              0,0673828125 KBytes
+Date of scanning: 03.05.2012 8:02:58
+///////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+ин				2				Numeral
+а				2				Numeral
+и				2				Numeral
+тора				2				Numeral
+е				4				Numeral
+ь				2				Numeral
+емь				2				Numeral
+'				2				Numeral
+о				4				Numeral
+ьдесят				4				Numeral
+				2				Numeral
+емьдесят				2				Numeral
+ый				22				Adjective
+ой				18				Adjective
+йный				10				Adjective
+ный				26				Adjective
+ий				24				Adjective
+ной				10				Adjective
+ний				6				Adjective
+ая				4				Adjective
+ьный				7				Adjective
+рый				3				Adjective
+кий				8				Adjective
+#				2				Adjective
+ей				4				Adjective
+йкий				4				Adjective
+ький				4				Adjective
+лый				3				Adjective
+гий				4				Adjective
+лой				3				Adjective
+ьной				3				Adjective
+ое				6				Adjective
+ые				2				Adjective
+ийся				2				Adjective
+#				47				Noun
+а				42				Noun
+оть				6				Noun
+онок				4				Noun
+ька				8				Noun
+оль				6				Noun
+ин				10				Noun
+ет				6				Noun
+ель				6				Noun
+я				41				Noun
+от				3				Noun
+енок				4				Noun
+ек				12				Noun
+й				8				Noun
+ь				14				Noun
+ев				3				Noun
+ок				10				Noun
+ед				3				Noun
+ей				3				Noun
+ка				18				Noun
+ел				3				Noun
+ен				6				Noun
+день				3				Noun
+ень				3				Noun
+ер				3				Noun
+ес				3				Noun
+ец				21				Noun
+ов				3				Noun
+ол				3				Noun
+он				3				Noun
+онь				3				Noun
+ор				3				Noun
+орь				3				Noun
+яц				3				Noun
+ос				2				Noun
+йка				8				Noun
+ко				12				Noun
+ья				15				Noun
+овь				6				Noun
+ьба				4				Noun
+ьга				4				Noun
+ла				8				Noun
+ьма				4				Noun
+йня				4				Noun
+на				4				Noun
+ожь				2				Noun
+ня				12				Noun
+ьня				4				Noun
+ра				4				Noun
+ца				8				Noun
+ля				4				Noun
+ночь				2				Noun
+е				14				Noun
+о				21				Noun
+ло				8				Noun
+ьце				4				Noun
+ьмо				4				Noun
+но				9				Noun
+ро				4				Noun
+цо				4				Noun
+ьцо				4				Noun
+ье				4				Noun
+це				4				Noun
+йцо				4				Noun
+хо				4				Noun
+ы				6				Noun
+и				10				Noun
+ки				4				Noun
+ьца				3				Noun
+ьки				3				Noun
+нуть				4				Verb
+ти				6				Verb
+ть				22				Verb
+ТАТЬСЯ				2				Verb
+ить				61				Verb
+ать				36				Verb
+есть				2				Verb
+ыть				4				Verb
+идти				2				Verb
+зать				7				Verb
+сться				2				Verb
+аться				22				Verb
+обрать				2				Verb
+бить				2				Verb
+вать				6				Verb
+диться				8				Verb
+вить				2				Verb
+титься				17				Verb
+гать				2				Verb
+сти				15				Verb
+сть				6				Verb
+дить				10				Verb
+деть				8				Verb
+драть				2				Verb
+йти				7				Verb
+евать				8				Verb
+ить				2				Verb
+ться				18				Verb
+оть				4				Verb
+уть				5				Verb
+ивать				2				Verb
+ять				21				Verb
+ереть				2				Verb
+рать				5				Verb
+яться				16				Verb
+ереться				5				Verb
+есть				8				Verb
+няться				2				Verb
+еть				21				Verb
+,еют,ла,ли,ло}				2				Verb
+ть				2				Verb
+сться				10				Verb
+сить				17				Verb
+жечь				2				Verb
+ечь				4				Verb
+жать				4				Verb
+зиться				5				Verb
+зить				12				Verb
+иться				48				Verb
+зять				5				Verb
+сеть				12				Verb
+йтись				9				Verb
+теться				8				Verb
+хать				22				Verb
+асти				3				Verb
+стереть				4				Verb
+мяться				2				Verb
+иться				4				Verb
+няться				4				Verb
+кать				10				Verb
+лить				3				Verb
+стереться				4				Verb
+мять				2				Verb
+нать				4				Verb
+нуться				2				Verb
+нять				4				Verb
+стись				3				Verb
+овать				8				Verb
+переться				4				Verb
+оваться				5				Verb
+ситься				8				Verb
+оваться				10				Verb
+огнать				4				Verb
+одрать				4				Verb
+одраться				4				Verb
+озвать				5				Verb
+олоть				2				Verb
+стеть				4				Verb
+переть				4				Verb
+стись				4				Verb
+сать				6				Verb
+сесться				4				Verb
+скать				6				Verb
+слать				4				Verb
+стить				12				Verb
+шить				4				Verb
+спить				4				Verb
+питься				4				Verb
+теть				11				Verb
+тить				21				Verb
+тать				25				Verb
+тереть				4				Verb
+тереться				4				Verb
+деться				16				Verb
+еться				18				Verb
+ыть				4				Verb
+уться				4				Verb
+хаться				10				Verb
+чь				6				Verb
+чься				6				Verb
+честь				3				Verb
+ыться				2				Verb
+ыться				4				Verb
+заться				10				Verb
+таться				12				Verb
+наться				8				Verb
+ваться				11				Verb
+зиться				6				Verb
+ечься				4				Verb
+еваться				12				Verb
+биться				3				Verb
+сшить				4				Verb
+сшиться				4				Verb
+раться				10				Verb
+стать				6				Verb
+статься				6				Verb
+есться				4				Verb
+жаться				7				Verb
+аться				6				Verb
+каться				8				Verb
+оться				4				Verb
+скаться				4				Verb
+саться				8				Verb
+литься				4				Verb
+ститься				6				Verb
+озваться				5				Verb
+тись				4				Verb
+жечься				4				Verb
+ъять				4				Verb
+зяться				5				Verb
+слаться				4				Verb
+огнаться				4				Verb
+обраться				3				Verb
+виться				4				Verb
+///////////////////////////////////////////////////////
+Processing time :   00:00:37.7131571
+Size of file: 69 Bytes.
+              0,0673828125 KBytes
+Date of scanning: 03.05.2012 8:04:31
+///////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+ин				2				Numeral
+а				2				Numeral
+и				2				Numeral
+тора				2				Numeral
+е				4				Numeral
+ь				2				Numeral
+емь				2				Numeral
+'				2				Numeral
+о				4				Numeral
+ьдесят				4				Numeral
+				2				Numeral
+емьдесят				2				Numeral
+ый				22				Adjective
+ой				18				Adjective
+йный				10				Adjective
+ный				26				Adjective
+ий				24				Adjective
+ной				10				Adjective
+ний				6				Adjective
+ая				4				Adjective
+ьный				7				Adjective
+рый				3				Adjective
+кий				8				Adjective
+#				2				Adjective
+ей				4				Adjective
+йкий				4				Adjective
+ький				4				Adjective
+лый				3				Adjective
+гий				4				Adjective
+лой				3				Adjective
+ьной				3				Adjective
+ое				6				Adjective
+ые				2				Adjective
+ийся				2				Adjective
+#				47				Noun
+а				42				Noun
+оть				6				Noun
+онок				4				Noun
+ька				8				Noun
+оль				6				Noun
+ин				10				Noun
+ет				6				Noun
+ель				6				Noun
+я				41				Noun
+от				3				Noun
+енок				4				Noun
+ек				12				Noun
+й				8				Noun
+ь				14				Noun
+ев				3				Noun
+ок				10				Noun
+ед				3				Noun
+ей				3				Noun
+ка				18				Noun
+ел				3				Noun
+ен				6				Noun
+день				3				Noun
+ень				3				Noun
+ер				3				Noun
+ес				3				Noun
+ец				21				Noun
+ов				3				Noun
+ол				3				Noun
+он				3				Noun
+онь				3				Noun
+ор				3				Noun
+орь				3				Noun
+яц				3				Noun
+ос				2				Noun
+йка				8				Noun
+ко				12				Noun
+ья				15				Noun
+овь				6				Noun
+ьба				4				Noun
+ьга				4				Noun
+ла				8				Noun
+ьма				4				Noun
+йня				4				Noun
+на				4				Noun
+ожь				2				Noun
+ня				12				Noun
+ьня				4				Noun
+ра				4				Noun
+ца				8				Noun
+ля				4				Noun
+ночь				2				Noun
+е				14				Noun
+о				21				Noun
+ло				8				Noun
+ьце				4				Noun
+ьмо				4				Noun
+но				9				Noun
+ро				4				Noun
+цо				4				Noun
+ьцо				4				Noun
+ье				4				Noun
+це				4				Noun
+йцо				4				Noun
+хо				4				Noun
+ы				6				Noun
+и				10				Noun
+ки				4				Noun
+ьца				3				Noun
+ьки				3				Noun
+нуть				4				Verb
+ти				6				Verb
+ть				22				Verb
+ТАТЬСЯ				2				Verb
+ить				61				Verb
+ать				36				Verb
+есть				2				Verb
+ыть				4				Verb
+идти				2				Verb
+зать				7				Verb
+сться				2				Verb
+аться				22				Verb
+обрать				2				Verb
+бить				2				Verb
+вать				6				Verb
+диться				8				Verb
+вить				2				Verb
+титься				17				Verb
+гать				2				Verb
+сти				15				Verb
+сть				6				Verb
+дить				10				Verb
+деть				8				Verb
+драть				2				Verb
+йти				7				Verb
+евать				8				Verb
+ить				2				Verb
+ться				18				Verb
+оть				4				Verb
+уть				5				Verb
+ивать				2				Verb
+ять				21				Verb
+ереть				2				Verb
+рать				5				Verb
+яться				16				Verb
+ереться				5				Verb
+есть				8				Verb
+няться				2				Verb
+еть				21				Verb
+,еют,ла,ли,ло}				2				Verb
+ть				2				Verb
+сться				10				Verb
+сить				17				Verb
+жечь				2				Verb
+ечь				4				Verb
+жать				4				Verb
+зиться				5				Verb
+зить				12				Verb
+иться				48				Verb
+зять				5				Verb
+сеть				12				Verb
+йтись				9				Verb
+теться				8				Verb
+хать				22				Verb
+асти				3				Verb
+стереть				4				Verb
+мяться				2				Verb
+иться				4				Verb
+няться				4				Verb
+кать				10				Verb
+лить				3				Verb
+стереться				4				Verb
+мять				2				Verb
+нать				4				Verb
+нуться				2				Verb
+нять				4				Verb
+стись				3				Verb
+овать				8				Verb
+переться				4				Verb
+оваться				5				Verb
+ситься				8				Verb
+оваться				10				Verb
+огнать				4				Verb
+одрать				4				Verb
+одраться				4				Verb
+озвать				5				Verb
+олоть				2				Verb
+стеть				4				Verb
+переть				4				Verb
+стись				4				Verb
+сать				6				Verb
+сесться				4				Verb
+скать				6				Verb
+слать				4				Verb
+стить				12				Verb
+шить				4				Verb
+спить				4				Verb
+питься				4				Verb
+теть				11				Verb
+тить				21				Verb
+тать				25				Verb
+тереть				4				Verb
+тереться				4				Verb
+деться				16				Verb
+еться				18				Verb
+ыть				4				Verb
+уться				4				Verb
+хаться				10				Verb
+чь				6				Verb
+чься				6				Verb
+честь				3				Verb
+ыться				2				Verb
+ыться				4				Verb
+заться				10				Verb
+таться				12				Verb
+наться				8				Verb
+ваться				11				Verb
+зиться				6				Verb
+ечься				4				Verb
+еваться				12				Verb
+биться				3				Verb
+сшить				4				Verb
+сшиться				4				Verb
+раться				10				Verb
+стать				6				Verb
+статься				6				Verb
+есться				4				Verb
+жаться				7				Verb
+аться				6				Verb
+каться				8				Verb
+оться				4				Verb
+скаться				4				Verb
+саться				8				Verb
+литься				4				Verb
+ститься				6				Verb
+озваться				5				Verb
+тись				4				Verb
+жечься				4				Verb
+ъять				4				Verb
+зяться				5				Verb
+слаться				4				Verb
+огнаться				4				Verb
+обраться				3				Verb
+виться				4				Verb
+///////////////////////////////////////////////////////
+Processing time :   00:00:33.1688972
+Size of file: 69 Bytes.
+              0,0673828125 KBytes
+Date of scanning: 03.05.2012 8:20:25
+///////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+ин				2				Numeral
+а				2				Numeral
+и				2				Numeral
+тора				2				Numeral
+е				4				Numeral
+ь				2				Numeral
+емь				2				Numeral
+'				2				Numeral
+о				4				Numeral
+ьдесят				4				Numeral
+				2				Numeral
+емьдесят				2				Numeral
+ый				22				Adjective
+ой				18				Adjective
+йный				10				Adjective
+ный				26				Adjective
+ий				24				Adjective
+ной				10				Adjective
+ний				6				Adjective
+ая				4				Adjective
+ьный				7				Adjective
+рый				3				Adjective
+кий				8				Adjective
+#				2				Adjective
+ей				4				Adjective
+йкий				4				Adjective
+ький				4				Adjective
+лый				3				Adjective
+гий				4				Adjective
+лой				3				Adjective
+ьной				3				Adjective
+ое				6				Adjective
+ые				2				Adjective
+ийся				2				Adjective
+#				47				Noun
+а				42				Noun
+оть				6				Noun
+онок				4				Noun
+ька				8				Noun
+оль				6				Noun
+ин				10				Noun
+ет				6				Noun
+ель				6				Noun
+я				41				Noun
+от				3				Noun
+енок				4				Noun
+ек				12				Noun
+й				8				Noun
+ь				14				Noun
+ев				3				Noun
+ок				10				Noun
+ед				3				Noun
+ей				3				Noun
+ка				18				Noun
+ел				3				Noun
+ен				6				Noun
+день				3				Noun
+ень				3				Noun
+ер				3				Noun
+ес				3				Noun
+ец				21				Noun
+ов				3				Noun
+ол				3				Noun
+он				3				Noun
+онь				3				Noun
+ор				3				Noun
+орь				3				Noun
+яц				3				Noun
+ос				2				Noun
+йка				8				Noun
+ко				12				Noun
+ья				15				Noun
+овь				6				Noun
+ьба				4				Noun
+ьга				4				Noun
+ла				8				Noun
+ьма				4				Noun
+йня				4				Noun
+на				4				Noun
+ожь				2				Noun
+ня				12				Noun
+ьня				4				Noun
+ра				4				Noun
+ца				8				Noun
+ля				4				Noun
+ночь				2				Noun
+е				14				Noun
+о				21				Noun
+ло				8				Noun
+ьце				4				Noun
+ьмо				4				Noun
+но				9				Noun
+ро				4				Noun
+цо				4				Noun
+ьцо				4				Noun
+ье				4				Noun
+це				4				Noun
+йцо				4				Noun
+хо				4				Noun
+ы				6				Noun
+и				10				Noun
+ки				4				Noun
+ьца				3				Noun
+ьки				3				Noun
+нуть				4				Verb
+ти				6				Verb
+ть				22				Verb
+ТАТЬСЯ				2				Verb
+ить				61				Verb
+ать				36				Verb
+есть				2				Verb
+ыть				4				Verb
+идти				2				Verb
+зать				7				Verb
+сться				2				Verb
+аться				22				Verb
+обрать				2				Verb
+бить				2				Verb
+вать				6				Verb
+диться				8				Verb
+вить				2				Verb
+титься				17				Verb
+гать				2				Verb
+сти				15				Verb
+сть				6				Verb
+дить				10				Verb
+деть				8				Verb
+драть				2				Verb
+йти				7				Verb
+евать				8				Verb
+ить				2				Verb
+ться				18				Verb
+оть				4				Verb
+уть				5				Verb
+ивать				2				Verb
+ять				21				Verb
+ереть				2				Verb
+рать				5				Verb
+яться				16				Verb
+ереться				5				Verb
+есть				8				Verb
+няться				2				Verb
+еть				21				Verb
+,еют,ла,ли,ло}				2				Verb
+ть				2				Verb
+сться				10				Verb
+сить				17				Verb
+жечь				2				Verb
+ечь				4				Verb
+жать				4				Verb
+зиться				5				Verb
+зить				12				Verb
+иться				48				Verb
+зять				5				Verb
+сеть				12				Verb
+йтись				9				Verb
+теться				8				Verb
+хать				22				Verb
+асти				3				Verb
+стереть				4				Verb
+мяться				2				Verb
+иться				4				Verb
+няться				4				Verb
+кать				10				Verb
+лить				3				Verb
+стереться				4				Verb
+мять				2				Verb
+нать				4				Verb
+нуться				2				Verb
+нять				4				Verb
+стись				3				Verb
+овать				8				Verb
+переться				4				Verb
+оваться				5				Verb
+ситься				8				Verb
+оваться				10				Verb
+огнать				4				Verb
+одрать				4				Verb
+одраться				4				Verb
+озвать				5				Verb
+олоть				2				Verb
+стеть				4				Verb
+переть				4				Verb
+стись				4				Verb
+сать				6				Verb
+сесться				4				Verb
+скать				6				Verb
+слать				4				Verb
+стить				12				Verb
+шить				4				Verb
+спить				4				Verb
+питься				4				Verb
+теть				11				Verb
+тить				21				Verb
+тать				25				Verb
+тереть				4				Verb
+тереться				4				Verb
+деться				16				Verb
+еться				18				Verb
+ыть				4				Verb
+уться				4				Verb
+хаться				10				Verb
+чь				6				Verb
+чься				6				Verb
+честь				3				Verb
+ыться				2				Verb
+ыться				4				Verb
+заться				10				Verb
+таться				12				Verb
+наться				8				Verb
+ваться				11				Verb
+зиться				6				Verb
+ечься				4				Verb
+еваться				12				Verb
+биться				3				Verb
+сшить				4				Verb
+сшиться				4				Verb
+раться				10				Verb
+стать				6				Verb
+статься				6				Verb
+есться				4				Verb
+жаться				7				Verb
+аться				6				Verb
+каться				8				Verb
+оться				4				Verb
+скаться				4				Verb
+саться				8				Verb
+литься				4				Verb
+ститься				6				Verb
+озваться				5				Verb
+тись				4				Verb
+жечься				4				Verb
+ъять				4				Verb
+зяться				5				Verb
+слаться				4				Verb
+огнаться				4				Verb
+обраться				3				Verb
+виться				4				Verb
+///////////////////////////////////////////////////////
+Processing time :   00:00:30.7377581
+Size of file: 69 Bytes.
+              0,0673828125 KBytes
+Date of scanning: 03.05.2012 8:21:48
+///////////////////////////////////////////////////////
+
+
+
+
+
+///////////////////////////////////////////////////////
+///////////////////////////////////////////////////////
+ин				2				Numeral
+а				2				Numeral
+и				2				Numeral
+тора				2				Numeral
+е				4				Numeral
+ь				2				Numeral
+емь				2				Numeral
+'				2				Numeral
+о				4				Numeral
+ьдесят				4				Numeral
+				2				Numeral
+емьдесят				2				Numeral
+ый				22				Adjective
+ой				18				Adjective
+йный				10				Adjective
+ный				26				Adjective
+ий				24				Adjective
+ной				10				Adjective
+ний				6				Adjective
+ая				4				Adjective
+ьный				7				Adjective
+рый				3				Adjective
+кий				8				Adjective
+#				2				Adjective
+ей				4				Adjective
+йкий				4				Adjective
+ький				4				Adjective
+лый				3				Adjective
+гий				4				Adjective
+лой				3				Adjective
+ьной				3				Adjective
+ое				6				Adjective
+ые				2				Adjective
+ийся				2				Adjective
+#				47				Noun
+а				42				Noun
+оть				6				Noun
+онок				4				Noun
+ька				8				Noun
+оль				6				Noun
+ин				10				Noun
+ет				6				Noun
+ель				6				Noun
+я				41				Noun
+от				3				Noun
+енок				4				Noun
+ек				12				Noun
+й				8				Noun
+ь				14				Noun
+ев				3				Noun
+ок				10				Noun
+ед				3				Noun
+ей				3				Noun
+ка				18				Noun
+ел				3				Noun
+ен				6				Noun
+день				3				Noun
+ень				3				Noun
+ер				3				Noun
+ес				3				Noun
+ец				21				Noun
+ов				3				Noun
+ол				3				Noun
+он				3				Noun
+онь				3				Noun
+ор				3				Noun
+орь				3				Noun
+яц				3				Noun
+ос				2				Noun
+йка				8				Noun
+ко				12				Noun
+ья				15				Noun
+овь				6				Noun
+ьба				4				Noun
+ьга				4				Noun
+ла				8				Noun
+ьма				4				Noun
+йня				4				Noun
+на				4				Noun
+ожь				2				Noun
+ня				12				Noun
+ьня				4				Noun
+ра				4				Noun
+ца				8				Noun
+ля				4				Noun
+ночь				2				Noun
+е				14				Noun
+о				21				Noun
+ло				8				Noun
+ьце				4				Noun
+ьмо				4				Noun
+но				9				Noun
+ро				4				Noun
+цо				4				Noun
+ьцо				4				Noun
+ье				4				Noun
+це				4				Noun
+йцо				4				Noun
+хо				4				Noun
+ы				6				Noun
+и				10				Noun
+ки				4				Noun
+ьца				3				Noun
+ьки				3				Noun
+нуть				4				Verb
+ти				6				Verb
+ть				22				Verb
+ТАТЬСЯ				2				Verb
+ить				61				Verb
+ать				36				Verb
+есть				2				Verb
+ыть				4				Verb
+идти				2				Verb
+зать				7				Verb
+сться				2				Verb
+аться				22				Verb
+обрать				2				Verb
+бить				2				Verb
+вать				6				Verb
+диться				8				Verb
+вить				2				Verb
+титься				17				Verb
+гать				2				Verb
+сти				15				Verb
+сть				6				Verb
+дить				10				Verb
+деть				8				Verb
+драть				2				Verb
+йти				7				Verb
+евать				8				Verb
+ить				2				Verb
+ться				18				Verb
+оть				4				Verb
+уть				5				Verb
+ивать				2				Verb
+ять				21				Verb
+ереть				2				Verb
+рать				5				Verb
+яться				16				Verb
+ереться				5				Verb
+есть				8				Verb
+няться				2				Verb
+еть				21				Verb
+,еют,ла,ли,ло}				2				Verb
+ть				2				Verb
+сться				10				Verb
+сить				17				Verb
+жечь				2				Verb
+ечь				4				Verb
+жать				4				Verb
+зиться				5				Verb
+зить				12				Verb
+иться				48				Verb
+зять				5				Verb
+сеть				12				Verb
+йтись				9				Verb
+теться				8				Verb
+хать				22				Verb
+асти				3				Verb
+стереть				4				Verb
+мяться				2				Verb
+иться				4				Verb
+няться				4				Verb
+кать				10				Verb
+лить				3				Verb
+стереться				4				Verb
+мять				2				Verb
+нать				4				Verb
+нуться				2				Verb
+нять				4				Verb
+стись				3				Verb
+овать				8				Verb
+переться				4				Verb
+оваться				5				Verb
+ситься				8				Verb
+оваться				10				Verb
+огнать				4				Verb
+одрать				4				Verb
+одраться				4				Verb
+озвать				5				Verb
+олоть				2				Verb
+стеть				4				Verb
+переть				4				Verb
+стись				4				Verb
+сать				6				Verb
+сесться				4				Verb
+скать				6				Verb
+слать				4				Verb
+стить				12				Verb
+шить				4				Verb
+спить				4				Verb
+питься				4				Verb
+теть				11				Verb
+тить				21				Verb
+тать				25				Verb
+тереть				4				Verb
+тереться				4				Verb
+деться				16				Verb
+еться				18				Verb
+ыть				4				Verb
+уться				4				Verb
+хаться				10				Verb
+чь				6				Verb
+чься				6				Verb
+честь				3				Verb
+ыться				2				Verb
+ыться				4				Verb
+заться				10				Verb
+таться				12				Verb
+наться				8				Verb
+ваться				11				Verb
+зиться				6				Verb
+ечься				4				Verb
+еваться				12				Verb
+биться				3				Verb
+сшить				4				Verb
+сшиться				4				Verb
+раться				10				Verb
+стать				6				Verb
+статься				6				Verb
+есться				4				Verb
+жаться				7				Verb
+аться				6				Verb
+каться				8				Verb
+оться				4				Verb
+скаться				4				Verb
+саться				8				Verb
+литься				4				Verb
+ститься				6				Verb
+озваться				5				Verb
+тись				4				Verb
+жечься				4				Verb
+ъять				4				Verb
+зяться				5				Verb
+слаться				4				Verb
+огнаться				4				Verb
+обраться				3				Verb
+виться				4				Verb
+///////////////////////////////////////////////////////
+Processing time :   00:03:52.9293941
+Size of file: 69 Bytes.
+              0,0673828125 KBytes
+Date of scanning: 03.05.2012 18:38:14
+///////////////////////////////////////////////////////
+
+
+
+
+

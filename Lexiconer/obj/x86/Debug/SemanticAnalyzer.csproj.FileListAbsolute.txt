@@ -1,0 +1,75 @@
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rain\Documents\Visual Studio 2010\Projects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\ResGen.write.1.tlog
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResGen.read.1.tlog
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResGen.write.1.tlog
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+F:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+I:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+I:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+I:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResGen.read.1.tlog
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\ResGen.write.1.tlog
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csprojResolveAssemblyReference.cache
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+D:\EDUCATION\My projects\SemanticAnalyzer\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csproj.GenerateResource.Cache
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csprojResolveAssemblyReference.cache
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+D:\Мои Документы\Visual Studio 2013\Projects\other\1.0 Version\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csproj.GenerateResource.Cache
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.config
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.pdb
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Form1.resources
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.Properties.Resources.resources
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csproj.GenerateResource.Cache
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.pdb
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.CodeAnalysisLog.xml
+D:\Мои Документы\Visual Studio 2013\Projects\other\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\SemanticAnalyzer.exe.lastcodeanalysissucceeded
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\SemanticAnalyzer.csproj.GenerateResource.Cache
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\Lexiconer.Form1.resources
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\Lexiconer.Properties.Resources.resources
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\Lexiconer.exe.config
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\Lexiconer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\bin\Debug\Lexiconer.pdb
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\Lexiconer.exe
+D:\Мои Документы\Visual Studio 2013\Projects\MyProjects\SemanticAnalyzer\SemanticAnalyzer\obj\x86\Debug\Lexiconer.pdb
