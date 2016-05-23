@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>d:\publish\|http://lexiconer.ru/sites/lexiconer.ru/files/lexiconer/|http://u8805.hank.vps-private.net/sites/lexiconer.ru/files/|d:\|http://localhost/publish/</PublishUrlHistory>
+    <InstallUrlHistory>http://lexiconer.ru/sites/lexiconer.ru/files/lexiconer/|http://u8805.hank.vps-private.net/sites/lexiconer.ru/files/|http://localhost/publish/</InstallUrlHistory>
+    <SupportUrlHistory>http://lexiconer.ru/</SupportUrlHistory>
+    <UpdateUrlHistory>http://lexiconer.ru/sites/lexiconer.ru/files/lexiconer/|http://u8805.hank.vps-private.net/sites/lexiconer.ru/files/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://lexiconer.ru/</ErrorReportUrlHistory>
+    <FallbackCulture>ru-RU</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
